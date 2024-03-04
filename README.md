@@ -1,0 +1,1 @@
+This project is about facilitating the online purchase by making a simple application with a good management of the client data, and his list of products bought, and finally showing him the total price to be paid , with using a simple code using Python, SQLite and Tkinter for the GUI.
